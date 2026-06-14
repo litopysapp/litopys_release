@@ -1,9 +1,9 @@
 {
   "latestVersion": "0.3.0",
   "minVersion": "0.3.0",
-  "downloadUrl": "https://github.com/lymarenko/litopys_release/releases/download/v0.2.1/Litopys.exe",
+  "downloadUrl": "https://github.com/lymarenko/litopys_release/releases/download/v0.3.0/Litopys.exe",
   "message": "Доступне оновлення Litopys.",
-  "required": false,
+  "required": true,
   "maxPostpone": 5,
   "releaseNotes": {
     "new": [
