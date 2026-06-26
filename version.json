@@ -2,7 +2,7 @@
   "latestVersion": "1.0.3",
   "minVersion": "1.0.0",
   "downloadUrl": "https://github.com/litopysapp/litopys_release/releases/download/v1.0.3/Litopys.exe",
-  "sha256": "5d993a0efc9c549bba60ade07a8f10e6e7191f127e8aafc02eafb5e205d3b814",
+  "sha256": "8afb4e244126417c0fa06b9dc968857c7b2c90a8941c565dc53cfd2da776669b",
   "required": false,
   "message": "Доступне оновлення Litopys 1.0.3"
 }
