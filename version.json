@@ -1,8 +1,8 @@
 {
-  "latestVersion": "1.0.4",
+  "latestVersion": "1.0.5",
   "minVersion": "1.0.0",
-  "downloadUrl": "https://github.com/litopysapp/litopys_release/releases/download/v1.0.4/Litopys%201.0.4%20Portable.exe",
-  "message": "Доступне оновлення Litopys 1.0.4",
+  "downloadUrl": "https://github.com/litopysapp/litopys_release/releases/download/v1.0.5/Litopys%201.0.5%20Portable.exe",
+  "message": "Доступне оновлення Litopys 1.0.5",
   "required": false,
   "maxPostpone": 5,
   "releaseNotes": {
