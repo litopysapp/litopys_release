@@ -1,12 +1,13 @@
 {
-  "latestVersion": "1.2.0",
+  "latestVersion": "1.2.1",
   "minVersion": "1.0.0",
-  "downloadUrl": "https://github.com/litopysapp/litopys_release/releases/download/v1.2.0/Litopys%201.2.0%20Portable.exe",
-  "message": "Доступне оновлення Litopys 1.2.0",
+  "downloadUrl": "https://github.com/litopysapp/litopys_release/releases/download/v1.2.1/Litopys%201.2.1%20Portable.exe",
+  "message": "Доступне оновлення Litopys 1.2.1",
   "required": false,
   "maxPostpone": 5,
   "releaseNotes": {
     "fixes": [
+      "Плоттер: прибрано фонове опитування статусу кожні 4с у діалозі друку (замінено на кнопку \"Оновити статус\"), яке провокувало \"плотер не знайдено\" при друці",
       "БР: виправлено втрату сторінок при скануванні через ADF (тепер через TWAIN/NAPS2)",
       "Виправлено помилку \"пристрій не знайдено\" при швидкому повторному друці плоттером",
       "БР: імпорт DOCX більше не втрачає ручні правки при додаванні тексту до наявного документа"
