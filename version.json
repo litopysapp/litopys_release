@@ -1,10 +1,10 @@
 {
-  "latestVersion": "1.2.2",
-  "minVersion": "1.0.0",
-  "downloadUrl": "https://github.com/litopysapp/litopys_release/releases/download/v1.2.2/Litopys%201.2.2%20Portable.exe",
-  "message": "Доступне оновлення Litopys 1.2.2",
+  "latestVersion": "1.2.3",
+  "minVersion": "1.2.2",
+  "downloadUrl": "https://github.com/litopysapp/litopys_release/releases/download/v1.2.3/Litopys%201.2.3%20Portable.exe",
+  "message": "Доступне оновлення Litopys 1.2.3",
   "required": false,
-  "maxPostpone": 5,
+  "maxPostpone": 10,
   "releaseNotes": {
     "fixes": [
       "Плоттер: виправлено друк через USB у зібраній версії (bridge-скрипт не читався всередині запакованого app.asar)",
