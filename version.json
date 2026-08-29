@@ -1,10 +1,10 @@
 {
   "latestVersion": "1.4.0",
-  "minVersion": "1.2.2",
+  "minVersion": "1.3.0",
   "downloadUrl": "https://github.com/litopysapp/litopys_release/releases/download/v1.4.0/Litopys%201.4.0%20Portable.exe",
   "message": "Доступне оновлення Litopys 1.4.0",
   "required": false,
-  "maxPostpone": 10,
+  "maxPostpone": 15,
   "releaseNotes": {
     "fixes": [
       "Уніфіковано переноси рядків Enter/Ctrl+Enter/Shift+Enter/Backspace/Delete в основному прев'ю з режимом «Внести правки» (ЖБД/БР/БР2)",
